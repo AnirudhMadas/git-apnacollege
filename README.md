@@ -1,3 +1,3 @@
 # git-apnacollege
 apna college tutorial
-(edit)
+(edited)
